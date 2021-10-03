@@ -11,5 +11,5 @@ At the moment there are available the following operations:
 Process Flow:
 ![Screenshot 2021-10-03 at 22 52 21](https://user-images.githubusercontent.com/76618407/135769345-52ebe51b-64a8-415c-a06c-0a01084c00ac.png)
 
-Database Structure
+Database Structure:
 ![Screenshot 2021-10-03 at 22 52 59](https://user-images.githubusercontent.com/76618407/135769371-5883b2ac-9b2d-4d92-a31d-d16a78c6e775.png)
